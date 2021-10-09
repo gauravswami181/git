@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+}
+h2{
+    color: crimson;
+    text-align: center;
+    font-size: 35px;
+}
+p{
+    color: darkmagenta;
+    font-size: 20px ;
+}
+ul{
+    color: darkolivegreen;
+    font-size: 25px ;
+}
+h3{
+    color: darkred;
+    font size: 35px;
+    text-align:center;
+}
